@@ -16,6 +16,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * Yarn modules
 * Bootstrap
 
-(https://drive.google.com/file/d/1rrd-WayEAQTGwxrT7cakPQHrfmTwha5k/view)
-
 [![IMozart Mechanics Instructions](http://img.youtube.com/vi/g_q5db-onwU/0.jpg)](http://www.youtube.com/watch?v=g_q5db-onwU)
