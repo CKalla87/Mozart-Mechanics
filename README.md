@@ -5,6 +5,9 @@ To view the deployed version, _**[Check It Out Here!](https://protected-retreat-
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+## Instructions:
+[![IMozart Mechanics Instructions](http://img.youtube.com/vi/g_q5db-onwU/0.jpg)](http://www.youtube.com/watch?v=g_q5db-onwU)
+
 ## Technologies used:
 * Node.js
 * Express.js
@@ -16,4 +19,3 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * Yarn modules
 * Bootstrap
 
-[![IMozart Mechanics Instructions](http://img.youtube.com/vi/g_q5db-onwU/0.jpg)](http://www.youtube.com/watch?v=g_q5db-onwU)
